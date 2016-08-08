@@ -82,24 +82,32 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
+    // font-weight: $base-font-weight;
+    font-weight: 700;
 }
 
+/**
+ * Paragraphs
+ */
+p a, ul li a {
+    color: $brand-color;
+}
 
 
 /**
  * Links
  */
 a {
-    color: $brand-color;
+    // color: $brand-color;
+    color: $text-color;
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        // color: darken($brand-color, 15%);
     }
 
     &:hover {
-        color: $text-color;
+        // color: $text-color;
         text-decoration: underline;
     }
 }
