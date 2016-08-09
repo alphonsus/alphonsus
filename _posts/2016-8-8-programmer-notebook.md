@@ -5,21 +5,19 @@ categories: electron
 comments: true
 ---
 
-Hello. Starting today I will be "devlogging" my process on making a programmer notebook app.
+Hello. Starting today I will be devlogging my process on making a programmer notebook app for macOS.
 
-### The Problem
+### Problem #1
 
 I take down programming notes and cheat sheets a LOT on my Mac's Notes app. It usually looks like this:
 
 ![](/images/prog-notebook/1.png)
 
-While it usually gets the job done, look at that mess. It definitely just isn't meant to be a "programming notebook."
+While it usually gets the job done, it just isn't meant to be a "programming notebook":
 
-My issues with using Notes app as an app to take down programming notes:
-
-- A not-monospace font. While we _can_ edit the font manually, it takes several keystrokes and clicks. And that's _everytime_ we make a new note, since at the time of writing there is no way to set the default font. We need a monospace font right off the bat.
+- A not-monospace font. Though we can change the font, it takes several keystrokes and clicks. And that's _everytime_ we make a new note, since at the moment there is no way to set the default font. I want a monospace font right off the bat.
 - No markdown support.
-- Tags/categories feature. Yes we can organize notes into folders, and I do use that. But sometimes I also want notes to have multiple tags/categories, which I can then filter.
+- Tags/categories feature. Yes we can organize notes into folders, and I do use that. But when I want notes to belong to multiple categories, folder organization can't handle that.
 
 Things I do like about the Notes app are:
 
@@ -27,14 +25,25 @@ Things I do like about the Notes app are:
 - It syncs across all my Apple devices.
 - It's just really easy and efficient to use in general. Just create a new note, type stuff in, use some hotkeys to change the format (e.g. Cmd+Shift+H to set to Heading), close the app, open it again, continue where you left off, etc. No need to click save buttons or type in the Note title and stuff.
 
-### The Solution
+#### Other options:
+- A text editor like Sublime/Atom — what better app to take notes about programming on than the actual app you write programs on? Sure, but using a text editor would mean saving/opening files scattered everywhere on the disk. Besides, I would prefer to just have Sublime windows for actual projects, and have a separate app for note-taking.
+- Evernote — it's too cluttered and overkill for a programming notebook.
+- Something else I haven't heard of that might suit my needs, but it doesn't really matter because...
 
-So that's where this I'll-be-making-a-programming-notebook-app thing comes in—an attempt to create a Notes-esque app but more programmer-centric. I'm envisioning it as a markdown editor but with all the nice features we love in Notes.app. And hey, this will be a perfect excuse for me to finally start learning Electron!
+### Problem #2
+
+To be honest, I just really _really_ want to make something in Electron.
 
 ### ...Electron?
 
+[Electron](http://electron.atom.io) (by GitHub) is a framework for creating native applications using web technologies. Atom, Slack, and Visual Code Studio among others are all made with Electron. I've always wanted to try and make something with it ever since I learned about it earlier this year.
+
 ![](/images/prog-notebook/2.png)
 
-[Electron](http://electron.atom.io) is a framework to create native applications using web technologies. Atom, Slack, Visual Code Studio, among others are all made with this framework. I've always wanted to try and make something with it ever since I heard about it earlier this year. I will be using it for this project given my familiarity with creating web apps as opposed to creating native macOS apps.
+<p class="img-caption">Cross-platform apps made in HTML, CSS and JS.</p>
 
-On my next post(s) I will talk about my current progress with the development and a mini-tutorial on how to get started with creating Electron apps. Here's the project's [source code](https://github.com/AlfonzM/markdown-editor). Be warned, I am not the best modern-JS coder! And I will probably be porting this and use an actual JS framework like React in the future, depending on how large the project gets.
+And that's where this I'll-be-making-a-programming-notebook-app thing comes in—an attempt to create a Notes-esque app but more programmer-centric, using Electron. I'm envisioning it as a Markdown editor app, on steroids, with all the nice features we love in macOS Notes.
+
+On my next post(s) I will talk about my current progress with the development and a mini-tutorial on how to get started with creating Electron apps. You can find the source code [in this GitHub repository](https://github.com/AlfonzM/markdown-editor). Be warned, I am not the best modern-JS coder! And I will probably be porting this and use an actual JS framework like React in the future, depending on how large the project gets.
+
+– Alphonsus
