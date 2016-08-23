@@ -1,13 +1,13 @@
 ---
 layout: post-with-cover
-title:  "Making A Programmer Notebook App #1"
+title:  "Programmer Notebook Log #1 – Overview"
 categories: electron
 comments: true
 ---
 
-Hello. Starting today I will be devlogging my process on making a programmer notebook app for macOS.
+Hello, I'm devlogging my process on making a programmer notebook app for macOS using Electron.
 
-### Problem #1
+### The Problem
 
 I take down programming notes and cheat sheets a LOT on my Mac's Notes app. It usually looks like this:
 
@@ -30,7 +30,7 @@ Things I do like about the Notes app are:
 - Evernote — it's too cluttered and overkill for a programming notebook.
 - Something else I haven't heard of that might suit my needs, but it doesn't really matter because...
 
-### Problem #2
+### The Actual Problem
 
 To be honest, I just really _really_ want to make something in Electron.
 
@@ -44,6 +44,6 @@ To be honest, I just really _really_ want to make something in Electron.
 
 And that's where this I'll-be-making-a-programming-notebook-app thing comes in—an attempt to create a Notes-esque app but more programmer-centric, using Electron. I'm envisioning it as a Markdown editor app, on steroids, with all the nice features we love in macOS Notes.
 
-On my next post(s) I will talk about my current progress with the development and a mini-tutorial on how to get started with creating Electron apps. You can find the source code [in this GitHub repository](https://github.com/AlfonzM/markdown-editor). Be warned, I am not the best modern-JS coder! And I will probably be porting this and use an actual JS framework like React in the future, depending on how large the project gets.
+On my next post(s) I will talk about my current progress with the development and a mini-tutorial on how to get started with creating Electron apps. You can find the source code [in this GitHub repository](https://github.com/AlfonzM/md-editor). Be warned, I am not the best modern-JS coder! And I will probably be porting this and use an actual JS framework like React in the future, depending on how large the project gets.
 
 – Alphonsus

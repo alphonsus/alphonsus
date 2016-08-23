@@ -240,9 +240,10 @@ $navbar-height: 64px;
 }
 
 .post-link {
+    line-height: 1.4em;
     color: $text-color;
     display: block;
-    font-size: 36px;
+    font-size: 30px;
     font-weight: 700;
 }
 
@@ -261,9 +262,10 @@ $navbar-height: 64px;
 }
 
 .post-title {
-    font-size: 54px;
+    font-size: 48px;
     font-weight: 700;
     line-height: 1.2;
+    margin: 0;
 
     @include media-query($on-laptop) {
         font-size: 50px;

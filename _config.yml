@@ -17,6 +17,7 @@ github_username:  alfonzm
 
 # Build settings
 markdown: kramdown
+highlight: rouge
 
 # Outputting
 permalink: /:title/
