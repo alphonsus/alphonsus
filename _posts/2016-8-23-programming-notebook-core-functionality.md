@@ -102,3 +102,13 @@ Finally, one other important functionality is the ability to add tags to notes. 
 ## Conclusion
 
 This past week I've finished most of the important functionalities and it's actually pretty usable at this stage. From here on out, I'll be focusing more on the design and UX for the app.
+
+— Alphonsus
+
+&nbsp; 
+
+__Programmer Notebook Log Series:__
+
+- [Programmer Notebook Log #1 – Overview](/programmer-notebook)
+- [Programmer Notebook Log #2 – Creating a Markdown Editor in Electron](/markdown-editor-in-electron)
+- [Programmer Notebook Log #3 – Adding Core Functionality]()

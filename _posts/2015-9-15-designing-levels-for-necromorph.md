@@ -67,6 +67,8 @@ All that happens while a little bat-looking guy is flapping his wings over some 
 
 _To be continued..._
 
+— Alphonsus
+
 <!-- To utilize the new flying mechanic, I made the next  -->
 
 [Play Necromorph on itch.io >>](http://supernaught.itch.io/necromorph)

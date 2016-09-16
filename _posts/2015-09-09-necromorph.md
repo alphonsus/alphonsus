@@ -25,6 +25,8 @@ There's a total of 3 levels, the first being a tutorial level inspired by genius
 
 I shall be making a post-mortem blog post where I will talk more about our thought process on designing the levels, as well as how the game fared on the game jam, so stay tuned! Meanwhile, go play Necromorph!
 
+— Alphonsus
+
 _UPDATE: Level design post is [here](/designing-levels-for-necromorph)!_
 
 [Play Necromorph on itch.io >>](http://supernaught.itch.io/necromorph)

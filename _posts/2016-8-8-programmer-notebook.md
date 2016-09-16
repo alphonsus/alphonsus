@@ -46,4 +46,12 @@ And that's where this I'll-be-making-a-programming-notebook-app thing comes in�
 
 On my next post(s) I will talk about my current progress with the development and a mini-tutorial on how to get started with creating Electron apps. You can find the source code [in this GitHub repository](https://github.com/AlfonzM/md-editor). Be warned, I am not the best modern-JS coder! And I will probably be porting this and use an actual JS framework like React in the future, depending on how large the project gets.
 
-– Alphonsus
+— Alphonsus
+
+&nbsp; 
+
+__Programmer Notebook Log Series:__
+
+- [Programmer Notebook Log #1 – Overview]()
+- [Programmer Notebook Log #2 – Creating a Markdown Editor in Electron](/markdown-editor-in-electron)
+- [Programmer Notebook Log #3 – Adding Core Functionality](/programming-notebook-core-functionality)

@@ -154,4 +154,10 @@ And there you have it, a fully working GitHub-flavored Markdown editor. To build
 
 On my next posts I will be adding more features like creating new notes and auto-saving them to disk.
 
-– Alphonsus
+— Alphonsus
+
+&nbsp;
+
+- [Programmer Notebook Log #1 – Overview](/programmer-notebook)
+- [Programmer Notebook Log #2 – Creating a Markdown Editor in Electron]()
+- [Programmer Notebook Log #3 – Adding Core Functionality](/programming-notebook-core-functionality)

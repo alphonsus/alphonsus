@@ -37,6 +37,6 @@ __TL;DR:__ Overall, we think we made a pretty solid and adorable game. Although 
 
 If you reached this point, thank you for reading and we hope you enjoy Adrift! See you next Ludum Dare!
 
-– Alphonsus
+— Alphonsus
 
 [Ludum Dare Entry Page >>](http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=25961)
