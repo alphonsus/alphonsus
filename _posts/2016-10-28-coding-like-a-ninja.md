@@ -70,4 +70,10 @@ Time for some key bindings! Open up Key Bindings - User file and add the followi
 `Ctrl+I` will automatically indent your code.
 `Alt+Shift+R` to reveal the current file's location in the sidebar. Useful for when you need to see files in the same directory.
 
+### Conclusion
+
+The way I did it was I'd familiarize one shortcut at a time until they gradually become second nature, e.g. for this week I'd get used to multiple lines selection, next week would be cursor movement shortcuts, etc. Remember to keep discovering new shortcuts by looking at your editor's menu bar items!
+
+Happy coding!
+
 — Alphonsus
