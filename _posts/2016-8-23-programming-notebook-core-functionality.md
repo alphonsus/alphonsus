@@ -1,5 +1,5 @@
 ---
-layout: post-with-cover
+layout: post
 title:  "Programmer Notebook Log #3 – Adding Core Functionality"
 categories: electron
 comments: true
@@ -47,9 +47,9 @@ db.defaults({'notes': []}).value()
 var notes = db.get('notes').value()
 
 notes.map(function(note){
-    // Do something with note...
-    // console.log(note.body)
-    // console.log(note.updated_at)
+  // Do something with note...
+  // console.log(note.body)
+  // console.log(note.updated_at)
 });
 ```
 
@@ -63,7 +63,7 @@ __HTML template (index.html)__
 
 ```html
 <div id="editor">
-	<pre id="editor-textarea"></pre>
+  <pre id="editor-textarea"></pre>
 </div>
 ```
 
@@ -76,14 +76,14 @@ editor = ace.edit("editor-textarea");
 editor.setTheme("ace/theme/github");
 editor.session.setMode("ace/mode/markdown");
 editor.setOptions({
-	showGutter: false,
-	fontFamily: 'Menlo',
-	showLineNumbers: false,
-	fontSize: '9pt',
-	wrap: true,
-	cursorStyle: 'slim smooth',
-	showPrintMargin: false,
-	highlightActiveLine: false
+  showGutter: false,
+  fontFamily: 'Menlo',
+  showLineNumbers: false,
+  fontSize: '9pt',
+  wrap: true,
+  cursorStyle: 'slim smooth',
+  showPrintMargin: false,
+  highlightActiveLine: false
 });
 
 editor.container.style.lineHeight = 1.4;

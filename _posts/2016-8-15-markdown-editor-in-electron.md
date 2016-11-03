@@ -49,10 +49,10 @@ __app.html:__
 
 ```html
 <div class="container">
-    <textarea id="editor">Hello World</textarea>
-    <div id="output">
-        <h1>Hello World</h1>
-    </div>
+  <textarea id="editor">Hello World</textarea>
+  <div id="output">
+    <h1>Hello World</h1>
+  </div>
 </div>
 ```
 
@@ -85,11 +85,11 @@ $output = $('#output');
 // Removed some of the boilerplate code
 
 $(document).ready(function(){
-	// Whenever we type text in the textarea,
-	// display that text into the output div
-	$editor.on('input propertychange', function(){
-		$output.html($(this).val());
-	});
+  // Whenever we type text in the textarea,
+  // display that text into the output div
+  $editor.on('input propertychange', function(){
+    $output.html($(this).val());
+  });
 });
 ```
 
@@ -119,8 +119,8 @@ Then we simply pass the textarea value into a `marked()` function, which returns
 
 ```javascript
 $editor.on('input propertychange', function(){
-	var outputHtml = marked($(this).val());
-	$output.html(outputHtml);
+  var outputHtml = marked($(this).val());
+  $output.html(outputHtml);
 });
 ```
 

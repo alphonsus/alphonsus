@@ -10,9 +10,8 @@
 @font-face{font-family: Avenir; font-weight: 300; font-style: italic; src: url("../fonts/lightoblique.otf"); }
 @font-face{font-family: Avenir; font-weight: 700; font-style: italic; src: url("../fonts/blackoblique.otf"); }
 
-
 // Our variables
-$base-font-family: -apple-system, Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: Avenir, -apple-system, Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   18px;
 $base-font-weight: 400;
 $large-font-size:  $base-font-size * 1.1;
