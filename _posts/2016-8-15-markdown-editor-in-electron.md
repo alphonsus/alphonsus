@@ -1,7 +1,7 @@
 ---
 layout: post-with-cover
 title:  "Programmer Notebook Log #2 – Creating a Markdown Editor in Electron"
-categories: electron
+categories: webdev electron
 comments: true
 ---
 

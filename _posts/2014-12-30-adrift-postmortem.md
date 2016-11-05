@@ -3,6 +3,7 @@ layout: post-with-cover
 title:  "Post-Mortem: Adrift"
 categories: gamedev ludumdare
 image: "images/adrift-postmortem/cover.png"
+comments: true
 ---
 
 LD31 is our 6th Ludum Dare. And after our failed attempt last August where both of us got sick on the last day (and later quit on the last few hours of the jam), we had one goal this LD: to make sure we finish the game this time.

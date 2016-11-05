@@ -1,7 +1,7 @@
 ---
 layout: post-with-cover
 title:  "Coding Like a Ninja"
-categories: coding
+categories: dev
 comments: true
 ---
 

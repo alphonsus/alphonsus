@@ -138,18 +138,17 @@ blockquote {
 pre,
 code {
     font-size: 14px;
-    // border: 1px solid $grey-color-light;
     border-radius: 5px;
-    background-color: #eee;
+    background-color: #f2f2f2;
     font-family: Menlo;
 }
 
 code {
-    padding: 4px 6px;
+    padding: 6px 8px;
 }
 
 pre {
-    padding: 8px 12px;
+    padding: 10px 12px;
     overflow-x: auto;
 
     > code {

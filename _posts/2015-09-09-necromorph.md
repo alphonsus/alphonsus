@@ -6,7 +6,7 @@ image: "images/necromorph/cover.png"
 comments: true
 ---
 
-_Time for another_ Ludum Dare game jam, where game devs over the world gather and make a game over the weekend!
+Time for another Ludum Dare game jam, where game devs over the world gather and make a game over the weekend!
 
 This month's Ludum Dare 33 is our 6th time joining the online game development competition. The theme was "You are the monster," and this is what Dave and I came up with over the 72-hour game jam.
 

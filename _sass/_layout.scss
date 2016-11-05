@@ -13,9 +13,8 @@ $navbar-height: 64px;
 }
 
 .site-title {
-    font-size: 17px;
+    font-size: 20px;
     text-transform: uppercase;
-    letter-spacing: 2px;
     font-weight: 700;
     line-height: $navbar-height;
     margin-bottom: 0;
@@ -124,7 +123,6 @@ $navbar-height: 64px;
 
 .footer-col {
     float: left;
-    margin-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
 }
 
@@ -219,10 +217,7 @@ $navbar-height: 64px;
 
     a.read-more {
         color: $brand-color;
-        font-size: $small-font-size;
-        letter-spacing: 2px;
-        font-weight: 500;
-        text-transform: uppercase;
+        // font-size: $small-font-size;
     }
 
     > li:not(:last-child) {
@@ -233,17 +228,14 @@ $navbar-height: 64px;
 }
 
 .post-meta {
-    font-size: $medium-font-size;
-    color: $grey-color;
-    letter-spacing: 2px;
-    text-transform: uppercase;
+    color: $grey-color-lightish;
 }
 
 .post-link {
     line-height: 1.4em;
     color: $text-color;
     display: block;
-    font-size: 30px;
+    font-size: 34px;
     font-weight: 700;
 }
 
@@ -254,6 +246,32 @@ $navbar-height: 64px;
  */
 .post-header {
     margin-bottom: $spacing-unit;
+
+}
+
+.post-categories {
+    ul {
+        margin: 40px 0;
+        padding: 0;
+
+        li {
+            a {
+                color: $grey-color;
+                margin-right: 10px;
+                padding: 7px 12px;
+                border-radius: 5px;
+                background-color: #f4f4f4;
+
+                &:hover {
+                    text-decoration: none;
+                    background-color: darken(#f4f4f4, 3%);
+                }
+            }
+
+            list-style: none;
+            display: inline;
+        }
+    }
 }
 
 .post-cover-image{
@@ -338,4 +356,63 @@ $navbar-height: 64px;
         margin-bottom: 24px;
         margin-top: -15px;
     }
+}
+
+#index {
+    // text-align: center;
+    position: relative;
+    height: 100vh;
+    width: 100%;
+
+    main {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 100%;
+        max-width: 1000px;
+
+        h1 {
+            font-size: 36pt;
+            font-weight: 700;
+            line-height: 1.3em;    
+            margin: 0;
+            padding: 0 50px;
+        }
+
+        ul {
+            color: lighten($grey-color, 10%);
+            font-size: 20pt;
+            margin: 0;
+            margin-top: 0.5em;
+            padding: 0 50px;
+
+            li {
+                display: inline;
+                list-style: none;
+                margin: 0px;
+                margin-right: 50px;
+            }
+        }
+
+        @media (max-width: 480px){
+            h1 {
+                text-align: left;
+                font-size: 20pt;
+                padding: 0 30px;
+            }
+
+            ul {
+                text-align: left;
+                font-size: 11pt;
+                padding: 0 30px;
+
+                li {
+                    margin: 0;
+                    margin-right: 10px;
+                }
+            }
+        }
+    }
+
 }

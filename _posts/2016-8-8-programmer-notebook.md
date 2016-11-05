@@ -1,7 +1,7 @@
 ---
 layout: post-with-cover
 title:  "Programmer Notebook Log #1 – Overview"
-categories: electron
+categories: webdev electron
 comments: true
 ---
 

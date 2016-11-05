@@ -1,8 +1,8 @@
 ---
 layout: home
-permalink: /home
+permalink: /
 ---
 
-# Alfonz Montelibano — a full-stack web developer & designer who loves beautiful, minimalist design and typography.
+# Alfonz Montelibano
 
 [Blog](#) / [Projects](#)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-permalink: /
+permalink: /blog
 ---
 
 <div class="home">
@@ -13,7 +13,7 @@ permalink: /
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         {{ post.excerpt }}
 
-        <a href="{{ post.url }}" class="read-more">Read more</a>
+        <a href="{{ post.url }}" class="read-more">Read more...</a>
       </li>
     {% endfor %}
   </ul>

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: post-with-cover
 title:  "Programmer Notebook Log #3 – Adding Core Functionality"
-categories: electron
+categories: webdev electron
 comments: true
 ---
 
