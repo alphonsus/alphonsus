@@ -10,7 +10,7 @@ permalink: /about/
 	<img src="/images/pp2.png"/>
 </div>
 
-Hello! I am Alfonz Montelibano a.k.a. Alphonsus—a full-stack web developer by day, moonlighting as an indie game developer at [Supernaught](http://twitter.com/_supernaught) at night. This website will be my technical dev blog of sorts.
+Hello! I am Alfonz Montelibano a.k.a. Alphonsus—a full-stack web developer by day, moonlighting as an indie game developer at [Supernaught](http://twitter.com/_supernaught) by night. This website will be my technical [dev blog](/blog) of sorts where I talk about web and game development.
 
 I have been doing game jams along with a friend, [Dave](http://twitter.com/momorgoth), who does all the art work, since 2013. Some cool games I worked on are [Slugcaster](http://supernaught.itch.io/slugcaster), [Necromorph](http://supernaught.itch.io/necromorph), [Pong Knights](http://alphonsus.itch.io/pong-knights), [Hammerfall](http://www.ludumdare.com/compo/ludum-dare-28/?action=preview&uid=25961), and [JUMPR](http://supernaught.itch.io/jumpr). Check out the complete list [here](/projects)!
 
