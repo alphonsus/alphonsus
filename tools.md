@@ -7,16 +7,19 @@ hidenav: true
 
 # Tools
 
+*Last updated: January 15, 2017*
+
 Here is a list of tools and resources I use for making games.
 
 &nbsp;
 
 ### Game Development
 
-- [HaxeFlixel][haxeflixel] – Main game development toolkit. Basically, it is Haxe programming language + OpenFL + Flixel game framework.
+- [LÖVE][love] — An open-source game framework for making 2D games using the awesome Lua scripting language.
+- [HaxeFlixel][haxeflixel] – A complete game development toolkit. Basically, it is Haxe programming language + OpenFL + Flixel game framework.
 - [Unity][unity] – Used to be my main game engine, but switched to HaxeFlixel very recently.
-- [Sublime Text 3][sublimetext] – IDE. I prefer a lightweight lightning fast text editor over feature-packed but slow IDE's any day. You just need to get used to keyboard shortcuts and install the necessary packages.
-- [Tiled][tiled] – Tiled map level editor. Usually export to CSV files which are then fed into HaxeFlixel as tilemap objects.
+- [Sublime Text 3][sublimetext] – Code-editor. I prefer a lightweight lightning fast text editor over feature-packed but slow IDE's any day. You just need to get used to keyboard shortcuts and install the necessary packages.
+- [Tiled][tiled] – Tiled map level editor. I usually export the levels into CSV/Lua files which are then fed into whicever game engine I'm using.
 
 &nbsp;
 
@@ -42,7 +45,7 @@ Here is a list of tools and resources I use for making games.
 - [FreeMusicArchive][freemusicarchive] - Where I look for free background music for our games.
 - [LMMS][lmms] – Open source digital audio workstation.
 
-
+[love]: #
 [haxeflixel]: #
 [unity]: #
 [sublimetext]: #

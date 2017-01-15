@@ -9,23 +9,26 @@ $navbar-height: 64px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
-    // margin-bottom: 60px;
+    margin-top: 40px;
 }
 
 .site-title {
-    font-size: 20px;
-    text-transform: uppercase;
-    font-weight: 700;
-    line-height: $navbar-height;
+    font-size: 30px;
+    text-transform: lowercase;
     margin-bottom: 0;
     float: left;
+
+    &:hover {
+        border: none;
+    }
 }
 
 .site-nav {
     float: right;
     line-height: $navbar-height;
 
-    font-size: 16px;
+    font-size: 18px;
+    text-transform: lowercase;
     font-weight: 500;
 
     .menu-icon {
@@ -98,9 +101,8 @@ $navbar-height: 64px;
  * Site footer
  */
 .site-footer {
-    margin-top: 30px;
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    // margin-top: 30px;
+    padding-bottom: 30px;
 }
 
 .footer-heading {
@@ -115,10 +117,11 @@ $navbar-height: 64px;
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
-    color: $grey-color;
-    margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
+    // text-align: center;
+    font-size: 13px;
+    // line-height: 1.6em;
+    font-weight: 300;
+    color: $grey-color-lightish;
 }
 
 .footer-col {
@@ -168,14 +171,13 @@ $navbar-height: 64px;
  * Page content
  */
 .page-content {
-    padding: $spacing-unit * 3 0;
+    padding: $spacing-unit * 2 0;
 
     .profile-pic {
+        text-align: center;
 
         img {
-            text-align: left;
-            width: 250px;
-            // border-radius: 70px;
+            width: 220px;
             margin: 0;
             margin-bottom: 40px;
         }
@@ -193,6 +195,7 @@ $navbar-height: 64px;
 
                     &:hover {
                         color: $brand-color;
+                        border: none;
                     }
                 }
                 margin: 0px 20px;
@@ -217,26 +220,18 @@ $navbar-height: 64px;
 
     a.read-more {
         color: $brand-color;
-        // font-size: $small-font-size;
-    }
-
-    > li:not(:last-child) {
-        margin-bottom: $spacing-unit * 1.2;
-        padding-bottom: $spacing-unit * 1.2;
-        border-bottom: 1px solid #eee;
     }
 }
 
 .post-meta {
+    flex: 0 0 130px;
     color: $grey-color-lightish;
 }
 
 .post-link {
-    line-height: 1.4em;
+    flex-grow: 1;
+    line-height: 1em;
     color: $text-color;
-    display: block;
-    font-size: 34px;
-    font-weight: 700;
 }
 
 

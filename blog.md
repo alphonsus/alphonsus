@@ -1,19 +1,20 @@
 ---
 layout: default
 title: Blog
-permalink: /blog
+permalink: /
 ---
 
 <div class="home">
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
-        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+      <li style="display: flex;">
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <span>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </span>
+        <!-- {{ post.excerpt }} -->
 
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        {{ post.excerpt }}
-
-        <a href="{{ post.url }}" class="read-more">Read more...</a>
+        <!-- <a href="{{ post.url }}" class="read-more">Read more...</a> -->
       </li>
     {% endfor %}
   </ul>

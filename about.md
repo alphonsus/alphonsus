@@ -4,19 +4,29 @@ title: About
 permalink: /about/
 ---
 
-# About
-
 <div class="profile-pic">
-	<img src="/images/pp2.png"/>
+	<img src="/images/pp3.jpg"/>
 </div>
 
-Hello! I am Alfonz Montelibano a.k.a. Alphonsus—a full-stack web developer by day, moonlighting as an indie game developer at [Supernaught](http://twitter.com/_supernaught) by night. This website will be my technical [dev blog](/blog) of sorts where I talk about web and game development.
+### About
+
+Hello! I am Alfonz Montelibano a.k.a. Alphonsus—a full-stack web developer by day, moonlighting as an indie game developer at [Supernaught](http://twitter.com/_supernaught) by night. This website will be my technical [dev blog](/blog) of sorts where I talk about web dev, and game dev, or just software development in general.
 
 I have been doing game jams along with a friend, [Dave](http://twitter.com/momorgoth), who does all the art work, since 2013. Some cool games I worked on are [Slugcaster](http://supernaught.itch.io/slugcaster), [Necromorph](http://supernaught.itch.io/necromorph), [Pong Knights](http://alphonsus.itch.io/pong-knights), [Hammerfall](http://www.ludumdare.com/compo/ludum-dare-28/?action=preview&uid=25961), and [JUMPR](http://supernaught.itch.io/jumpr). Check out the complete list [here](/projects)!
 
 I made a page about the [tools](/tools) I use for making games, if you're into that. Also I made [LDJAM Bot](http://twitter.com/ldjambot), a Twitter bot that tweets random Ludum Dare games.
 
-Follow me on Twitter [@alphnsus](http://twitter.com/alphnsus) for bite-sized updates on projects I'm currently working on. Also, you can reach me at [m.alfonz@gmail.com](mailto:m.alfonz@gmail.com).
+&nbsp;
+
+### Anything else?
+
+When I'm not writing software, I [travel](http://fonxnix.com) with my [girlfriend](http://instagram.com/danicagale), take lots of [photos](http://instagram.com/alfonzm), or make some [music](http://soundcloud.com/alphonsus).
+
+&nbsp;
+
+### Contact
+
+Follow me on Twitter [@alphnsus](http://twitter.com/alphnsus) or send me an e-mail at [m.alfonz@gmail.com](mailto:m.alfonz@gmail.com).
 
 
 <div id="home">

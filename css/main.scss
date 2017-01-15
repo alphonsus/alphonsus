@@ -10,8 +10,10 @@
 @font-face{font-family: Avenir; font-weight: 300; font-style: italic; src: url("../fonts/lightoblique.otf"); }
 @font-face{font-family: Avenir; font-weight: 700; font-style: italic; src: url("../fonts/blackoblique.otf"); }
 
+@import url('https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i');
+
 // Our variables
-$base-font-family: Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: 'Karla', Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   18px;
 $base-font-weight: 400;
 $large-font-size:  $base-font-size * 1.1;
@@ -31,7 +33,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    700px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
