@@ -21,6 +21,11 @@ $navbar-height: 64px;
     &:hover {
         border: none;
     }
+
+    @include media-query($on-laptop) {
+        display: block;
+        float: none;
+    }
 }
 
 .site-nav {
@@ -45,54 +50,60 @@ $navbar-height: 64px;
         }
     }
 
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: $spacing-unit / 2;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
-
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-
-            &:not(:last-child) {
-                margin-right: 0;
-            }
-            margin-left: 20px;
-        }
+    @include media-query($on-laptop) {
+        display: block;
+        line-height: 1em;
+        float: none;
     }
+
+    // @include media-query($on-laptop) {
+    //     position: absolute;
+    //     top: 9px;
+    //     right: $spacing-unit / 2;
+    //     background-color: $background-color;
+    //     border: 1px solid $grey-color-light;
+    //     border-radius: 5px;
+    //     text-align: right;
+
+    //     .menu-icon {
+    //         display: block;
+    //         float: right;
+    //         width: 36px;
+    //         height: 26px;
+    //         line-height: 0;
+    //         padding-top: 10px;
+    //         text-align: center;
+
+    //         > svg {
+    //             width: 18px;
+    //             height: 15px;
+
+    //             path {
+    //                 fill: $grey-color-dark;
+    //             }
+    //         }
+    //     }
+
+    //     .trigger {
+    //         clear: both;
+    //         display: none;
+    //     }
+
+    //     &:hover .trigger {
+    //         display: block;
+    //         padding-bottom: 5px;
+    //     }
+
+    //     .page-link {
+    //         display: block;
+    //         padding: 5px 10px;
+
+    //         &:not(:last-child) {
+    //             margin-right: 0;
+    //         }
+    //         margin-left: 20px;
+    //     }
+    // }
 }
 
 
@@ -214,6 +225,16 @@ $navbar-height: 64px;
     margin-left: 0;
     list-style: none;
 
+    li {
+        display: flex;
+
+        @include media-query($on-laptop) {
+            display: block;
+            margin-bottom: 1em;
+        }
+    }
+
+
     p {
         margin-bottom: 0;
     }
@@ -226,6 +247,13 @@ $navbar-height: 64px;
 .post-meta {
     flex: 0 0 130px;
     color: $grey-color-lightish;
+
+    @include media-query($on-laptop) {
+        flex: 0 0;
+        margin-right: 5px;
+        display: block;
+        width: 100%;
+    }
 }
 
 .post-link {

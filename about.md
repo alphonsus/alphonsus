@@ -1,30 +1,32 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: /
 ---
 
 <div class="profile-pic">
 	<img src="/images/pp3.jpg"/>
 </div>
 
-### About
+## Hello!
 
-Hello! I am Alfonz Montelibano a.k.a. Alphonsus—a full-stack web developer by day, moonlighting as an indie game developer at [Supernaught](http://twitter.com/_supernaught) by night. This website will be my technical [dev blog](/blog) of sorts where I talk about web dev, and game dev, or just software development in general.
+I am __Alfonz Montelibano__ a.k.a. Alphonsus—a full-stack web developer by day, and an indie game developer at [Supernaught](http://twitter.com/_supernaught) by night. This website is my [tech blog](/blog) where I talk about web dev, game dev, or just software development in general.
 
-I have been doing game jams along with a friend, [Dave](http://twitter.com/momorgoth), who does all the art work, since 2013. Some cool games I worked on are [Slugcaster](http://supernaught.itch.io/slugcaster), [Necromorph](http://supernaught.itch.io/necromorph), [Pong Knights](http://alphonsus.itch.io/pong-knights), [Hammerfall](http://www.ludumdare.com/compo/ludum-dare-28/?action=preview&uid=25961), and [JUMPR](http://supernaught.itch.io/jumpr). Check out the complete list [here](/projects)!
+Check out my [resume here](/resume), my design and front-end [portfolio here](/portfolio), or the complete list of [side projects](/projects) I worked on.
 
-I made a page about the [tools](/tools) I use for making games, if you're into that. Also I made [LDJAM Bot](http://twitter.com/ldjambot), a Twitter bot that tweets random Ludum Dare games.
+I've been doing game jams with a friend, [Dave](http://twitter.com/momorgoth), who does all the art work, since 2013. Some cool games I worked on are [Slugcaster](http://supernaught.itch.io/slugcaster), [Necromorph](http://supernaught.itch.io/necromorph), [Pong Knights](http://alphonsus.itch.io/pong-knights), and [JUMPR](http://supernaught.itch.io/jumpr). I made a page about the [tools](/tools) I use for making games.
 
-&nbsp;
-
-### Anything else?
-
-When I'm not writing software, I [travel](http://fonxnix.com) with my [girlfriend](http://instagram.com/danicagale), take lots of [photos](http://instagram.com/alfonzm), or make some [music](http://soundcloud.com/alphonsus).
+I also make Twitter bots for fun like [LDJAM Bot](http://twitter.com/ldjambot) that tweets random Ludum Dare games, or [Aww Cute!](https://twitter.com/awww_cutie) and [Earth is Beautiful](https://twitter.com/earth__photos) that tweets photos from Reddit.
 
 &nbsp;
 
-### Contact
+## Anything else?
+
+When I'm not writing software, I [travel](https://www.instagram.com/explore/tags/adfntures/) and [blog](http://fonxnix.com) with my girlfriend, take lots of [photos](http://instagram.com/alfonzm), or make some [music](http://soundcloud.com/alphonsus).
+
+&nbsp;
+
+## Contact
 
 Follow me on Twitter [@alphnsus](http://twitter.com/alphnsus) or send me an e-mail at [m.alfonz@gmail.com](mailto:m.alfonz@gmail.com).
 

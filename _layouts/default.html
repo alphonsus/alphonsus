@@ -5,10 +5,12 @@
 
   <body>
 
-    {% include header.html %}
+    {% if page.hideheader != true %}
+      {% include header.html %}
+    {% endif %}
 
     <div class="page-content">
-      <div class="wrapper">
+      <div class="wrapper" id="{{ page.wrapper_id }}">
         {{ content }}
       </div>
     </div>
