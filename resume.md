@@ -25,8 +25,9 @@ h2 {
 - E-mail: [m.alfonz@gmail.com](mailto:m.alfonz@gmail.com)
 - Phone: +63 920 958 3066
 - Links:
-	- [Blog](http://alphonsus.github.io)
+	- [Blog](http://alphonsus.github.io/blog)
 	- [Front-End Dev & Design Portfolio](http://alphonsus.github.io/portfolio)
+	- [Side Projects](http://alphonsus.github.io/projects)
 	- [GitHub](http://github.com/alfonzm)
 	- [Stack Overflow](http://stackoverflow.com/users/4007220/alphonsus)
 

@@ -15,7 +15,10 @@
       </div>
     </div>
 
-    {% include footer.html %}
+    
+    {% if page.hideheader != true %}
+      {% include footer.html %}
+    {% endif %}
 
   </body>
 

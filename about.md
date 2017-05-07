@@ -10,7 +10,7 @@ permalink: /
 
 ## Hello!
 
-I am __Alfonz Montelibano__ a.k.a. Alphonsus—a full-stack web developer by day, and an indie game developer at [Supernaught](http://twitter.com/_supernaught) by night. This website is my [tech blog](/blog) where I talk about web dev, game dev, or just software development in general.
+I am __Alfonz Montelibano__—a full-stack web developer by day, and an indie game developer at [Supernaught](http://twitter.com/_supernaught) by night. This website is my [tech blog](/blog) where I talk about web dev, game dev, or just software development in general.
 
 Check out my [resume here](/resume), my design and front-end [portfolio here](/portfolio), or the complete list of [side projects](/projects) I worked on.
 
