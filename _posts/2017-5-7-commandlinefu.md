@@ -51,7 +51,7 @@ When you edit files in your local computer you'd definitely use a text editor, r
 
 It's got a lot of powerful features and keybindings, and the learning curve is pretty steep, but it's all worth it and just takes a bit of practice and habit before you actually master it.
 
-![](/images/commandlinefu/vim.gif)
+_![](/images/commandlinefu/vim.gif)_
 
 <p class="img-caption">Source: vimgifs.com</p>
 

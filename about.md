@@ -16,8 +16,6 @@ Check out my [resume here](/resume), my design and front-end [portfolio here](/p
 
 I've been doing game jams with a friend, [Dave](http://twitter.com/momorgoth), who does all the art work, since 2013. Some cool games I worked on are [Slugcaster](http://supernaught.itch.io/slugcaster), [Necromorph](http://supernaught.itch.io/necromorph), [Pong Knights](http://alphonsus.itch.io/pong-knights), and [JUMPR](http://supernaught.itch.io/jumpr). I made a page about the [tools](/tools) I use for making games.
 
-I also make Twitter bots for fun like [LDJAM Bot](http://twitter.com/ldjambot) that tweets random Ludum Dare games, or [Aww Cute!](https://twitter.com/awww_cutie) and [Earth is Beautiful](https://twitter.com/earth__photos) that tweets photos from Reddit.
-
 &nbsp;
 
 ## Anything else?

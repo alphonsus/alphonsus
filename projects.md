@@ -25,6 +25,16 @@ h2 {
 
 Here's a list of side-projects that I worked on during my free time.
 
+![](/images/projects/ragnamarket.png)
+
+## Ragna-Market.com
+
+[Website](https://ragna-market.com) / [Facebook Page](https://facebook.com/Ragna-Marketcom-184012118837081)
+
+- A marketplace website for Ragnarok Online, an MMORPG game
+- Players can post in-game items they want to buy or sell
+- Made with Laravel and Vue.js
+
 ![](/images/projects/slugcaster.gif)
 
 ## Slugcaster

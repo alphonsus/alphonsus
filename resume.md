@@ -32,11 +32,15 @@ h2 {
 	- [Stack Overflow](http://stackoverflow.com/users/4007220/alphonsus)
 
 ## Employment
+- **Full-Stack Web Developer & iOS Developer, LIG Philippines Inc.** (Jun 2017—Present)
+  - Developed an iOS application and a web app for a tourist matching service
+  - Designed and developed websites and single page apps using technologies like Ruby on Rails, Node.js, Vue.js and 3rd-party API integrations
 
-- **Robot Applications and Full-Stack Web Developer, G-Angle Entertainment Cebu** (May 2016—Present)
+
+- **Robot Applications and Full-Stack Web Developer, G-Angle Entertainment Cebu** (May 2016—Jun 2017)
   - Designed and developed applications and content management systems for Pepper—a humanoid robot—using Python, web technologies and public 3rd-party APIs
   - Designed and developed in-house web systems, web applications and back-end APIs using frameworks like Laravel, React.js, Vue.js
-  - System administration for Linux and Amazon EC2 servers
+  - System administration for Linux and AWS
 
 - **Web Developer / iOS Developer, Chromedia Far East Inc.** (Apr 2015—May 2016)
   - Developed and maintained web systems, web apps and CRM software for startup companies
@@ -53,60 +57,50 @@ h2 {
 
 - **Back-end Web Development**
 	- LAMP stack (Linux, Apache, MySQL, PHP)
-	- PHP Frameworks
-	  - Laravel, Eloquent ORM
-	  - Slim
+	- Laravel, Eloquent, Slim, Wordpress
 	- Node stack (Node.js, Express, MongoDB)
-	- RESTful API
-	- 3rd Party API integrations
-	- Amazon Web Services EC2 and S3
+	- RESTful API, 3rd Party API integrations
+	- Amazon Web Services, Firebase
 
 - **Front-end Web Development**
 	- HTML5, CSS3, Javascript (ES6), jQuery
-	- React.js, Vue.js
-	- Electron
-	- Jekyll
-	- Bootstrap, Semantic UI
-	- SASS, LESS
-	- Tools:
-		- npm, yarn, Gulp, Webpack
+	- Vue.js, Nuxt.js
+  - SASS, LESS, Pug
+  - Bootstrap, Semantic UI, Bulma
+  - Tools: npm, yarn, Gulp, Webpack
 
 - **Mobile Development**
   - iOS (Swift)
-  	- CocoaPods, Eureka, Alamofire
 
 - **Design**
   - UI/UX Design
   - Graphic Design
-  - Photoshop
+  - Sketch, Photoshop
   
 - **Other**
   - Python
   - Git
-  - UNIX, shell scripting
+  - UNIX computing, shell scripting
 
 - **Game Development**
-  - Unity Engine (C#)
   - LÖVE (Lua)
+  - Unity (C#)
   - HaxeFlixel (Haxe)
   - Game Design / Level Design
   
 ## Side Projects
+[See the complete list here](http://alphonsus.github.io/projects)
+
+- Ragna-Market.com — an online marketplace for a MMORPG gmae
 - Supernaught — an indie game development group
 - Codigo — a note-taking app for programming, made with Electron
 - HN Reader — A Hacker News reader client app for iOS using the Hacker News API
 - Twitter bots — novelty Twitter accounts that tweet random stuff like cute photos or random game-jam games
-- [See the complete list here](http://alphonsus.github.io/projects)
 
-## Education
+## Workshops / Talks
 
-- **University of San Carlos**
-  - BS Computer Science, AY 2010—2014
-
-- **MSU-IIT Integrated Developmental School**
-  - Secondary School, AY 2006—2010
-
-## Lectures / Talks
+- **[Creating Universal Apps With Nuxt.js](https://facebook.com/htmlcebu/)**
+  - HTML Cebu @ iioffice Cebu, July 2018
 
 - **[1st Cebu Game Developer's Meet Up](https://www.meetup.com/CebuGameDev/events/238164546/)**
   - Philosophia Library Cafe, Cebu, March 2017
@@ -125,3 +119,11 @@ h2 {
 
 - **2nd CS Dept. Research Forum**
   - University of San Carlos, September 2014
+
+## Education
+
+- **University of San Carlos**
+  - BS Computer Science, AY 2010—2014
+
+- **MSU-IIT Integrated Developmental School**
+  - Secondary School, AY 2006—2010
