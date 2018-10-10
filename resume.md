@@ -33,8 +33,9 @@ h2 {
 
 ## Employment
 - **Full-Stack Web Developer & iOS Developer, LIG Philippines Inc.** (Jun 2017—Present)
-  - Developed an iOS application and a web app for a tourist matching service
-  - Designed and developed websites and single page apps using technologies like Ruby on Rails, Node.js, Vue.js and 3rd-party API integrations
+  - Developed an iOS and web application for a tourist matching service
+  - Develoepd back-end for a chat application using Node.js, Express, MongoDB
+  - Developed websites and single page apps using Ruby on Rails and Vue.js
 
 
 - **Robot Applications and Full-Stack Web Developer, G-Angle Entertainment Cebu** (May 2016—Jun 2017)
@@ -79,8 +80,10 @@ h2 {
   
 - **Other**
   - Python
-  - Git
-  - UNIX computing, shell scripting
+  - UNIX computing
+    - Git
+    - zsh, vim, tmux
+    - shell scripting
 
 - **Game Development**
   - LÖVE (Lua)
@@ -91,7 +94,7 @@ h2 {
 ## Side Projects
 [See the complete list here](http://alphonsus.github.io/projects)
 
-- Ragna-Market.com — an online marketplace for a MMORPG gmae
+- Ragna-Market.com — an online marketplace for an MMORPG gmae
 - Supernaught — an indie game development group
 - Codigo — a note-taking app for programming, made with Electron
 - HN Reader — A Hacker News reader client app for iOS using the Hacker News API
