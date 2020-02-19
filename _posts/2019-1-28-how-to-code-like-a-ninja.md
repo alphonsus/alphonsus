@@ -1,6 +1,6 @@
 ---
 layout: post-with-cover
-title:  "Coding Like a Ninja"
+title:  "How to Code Like a Ninja"
 categories: dev
 comments: true
 ---
@@ -76,4 +76,4 @@ The way I did it was I'd familiarize one shortcut at a time until they gradually
 
 Happy coding!
 
-— Alphonsus
+— Alfonz

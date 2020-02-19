@@ -1,6 +1,6 @@
 ---
 layout: post-with-cover
-title:  "Programmer Notebook Log #2 – Creating a Markdown Editor in Electron"
+title:  "Making a Programmer Notes App Part 2: Markdown Editor in Electron"
 categories: webdev electron
 comments: true
 ---
@@ -154,7 +154,7 @@ And there you have it, a fully working GitHub-flavored Markdown editor. To build
 
 On my next posts I will be adding more features like creating new notes and auto-saving them to disk.
 
-— Alphonsus
+— Alfonz
 
 &nbsp;
 

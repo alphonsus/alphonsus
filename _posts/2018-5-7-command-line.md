@@ -175,7 +175,7 @@ $ lolcat -h
 
 Or just pipe everything!
 
-<script type="text/javascript" src="https://asciinema.org/a/654jhnqxfe0flre4mma0dd4kp.js" id="asciicast-654jhnqxfe0flre4mma0dd4kp" async></script>
+<script id="asciicast-303020" src="https://asciinema.org/a/303020.js" async></script>
 
 How can you say no to the power of the terminal with that?!
 
@@ -192,6 +192,6 @@ Good for you! You might want to:
 
 Good luck!
 
-— Alphonsus
+— Alfonz
 
 &nbsp;

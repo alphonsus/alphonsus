@@ -67,7 +67,7 @@ All that happens while a little bat-looking guy is flapping his wings over some 
 
 _To be continued..._
 
-— Alphonsus
+— Alfonz
 
 <!-- To utilize the new flying mechanic, I made the next  -->
 

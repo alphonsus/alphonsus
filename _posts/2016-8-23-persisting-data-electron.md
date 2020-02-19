@@ -1,6 +1,6 @@
 ---
 layout: post-with-cover
-title:  "Programmer Notebook Log #3 – Adding Core Functionality"
+title:  "Making a Programmer Notes App Part 3: Persisting Data"
 categories: webdev electron
 comments: true
 ---
@@ -103,7 +103,7 @@ Finally, one other important functionality is the ability to add tags to notes. 
 
 This past week I've finished most of the important functionalities and it's actually pretty usable at this stage. From here on out, I'll be focusing more on the design and UX for the app.
 
-— Alphonsus
+— Alfonz
 
 &nbsp; 
 
